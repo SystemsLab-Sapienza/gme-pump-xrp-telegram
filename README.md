@@ -20,13 +20,14 @@ If you use this data, or use the findings from the paper, please cite:
 ## The dataset
 
 The dataset contains all the messages, files, videos, and images posted on the “OFFICIAL BUY & HOLD XRP” Telegram group. 
+
 The chat messages are stored in the ```messagesX.html``` files.
 
 The repository contains the following folders:
 
 * **photos**: This folder contains all the photos shared in the group.
 
-* **stickers **: This folder contains all the stickers shared in the group.
+* **stickers**: This folder contains all the stickers shared in the group.
 
 * **videos**: This folder contains all the video shared in the group.
 
