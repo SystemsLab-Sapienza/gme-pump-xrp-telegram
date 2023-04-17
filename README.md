@@ -29,7 +29,7 @@ The repository contains the following folders:
 
 * **stickers**: This folder contains all the stickers shared in the group.
 
-* **videos**: This folder contains all the video shared in the group.
+* **video_files**: This folder contains all the video shared in the group.
 
 * **files** : This folder contains a pdf file shared in the group.
 
