@@ -21,7 +21,7 @@ If you use this data, or use the findings from the paper, please cite:
 
 The dataset contains all the messages, files, videos, and images posted on the “OFFICIAL BUY & HOLD XRP” Telegram group. 
 
-The chat messages are stored in the ```messagesX.html``` files.
+The chat messages are stored in the ```messagesX.html``` files. Users have been anonymized to preserve their privacy.
 
 The repository contains the following folders:
 
